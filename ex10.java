@@ -11,5 +11,6 @@ public class ex10 {
 	    }
 	    System.out.print(A[i]+" ");
 	    PrintArray(A,i+1);
+		//Soamsundaram
 	}
 }
