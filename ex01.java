@@ -26,7 +26,6 @@ public class ex01
 		}
 		for(i=0;i<a.length;i++){
 		    System.out.print(a[i]);
-			System.out.print("SOMASUNDARAM RAHUL SRIDHARA RAMESH");
 		}
 	}
 }
