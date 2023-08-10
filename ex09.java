@@ -6,6 +6,7 @@ public class ex09 {
 		Scanner sc=new Scanner(System.in);
 		int i=sc.nextInt();
 		PrintNumber(i);
+		sc.close();
 	}
 	public static void PrintNumber(int N){
 	    if(N==0){
